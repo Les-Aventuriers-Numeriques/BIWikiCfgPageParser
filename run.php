@@ -22,10 +22,10 @@ message('Demarrage...');
 
 // Les pages du wiki à parser
 $cfgpages_to_parse = array(
-  'Arma_3_CfgWeapons_Weapons'/*,
+  'Arma_3_CfgWeapons_Weapons',
   'Arma_3_CfgMagazines',
   'Arma_3_CfgWeapons_Items',
-  'Arma_3_CfgWeapons_Equipment'*/
+  'Arma_3_CfgWeapons_Equipment'
 );
 
 // Pour chaque page
